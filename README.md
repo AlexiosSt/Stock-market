@@ -14,7 +14,7 @@ In module `stock_market_structure.py` we load the data.
 In module `stock-plotter.py` we visualize the quote variation after clustering quotes according to their covariance.
 
 `Scikit-learn` helps us a lot!
-*_Fascinating_* example, don't you think!
+**Fascinating** example, _don't you think_!
 
 Just run:
 ~~~
