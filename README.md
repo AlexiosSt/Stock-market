@@ -8,7 +8,7 @@ The data is from 2003 - 2008, and represent the daily variation in quote prices.
 
 ## Code structure
 
-We use `Pandas` to store the data, and `Numpy` to process them.
+We use `Pandas` to store the data, and `Numpy` to process them. And `Matplotlib` to create graphics!
 
 In module `stock_market_structure.py` we load the data.
 In module `stock-plotter.py` we visualize the quote variation after clustering quotes according to their covariance.
