@@ -2,6 +2,8 @@
 
 This project follows closely the [example](https://scikit-learn.org/stable/auto_examples/applications/plot_stock_market.html#sphx-glr-auto-examples-applications-plot-stock-market-py) provided by `Scikit-learn`!
 
+The project employs unsupervised learning techniques to extract the stock market structure from variations in historical quotes.
+
 ## Retrieve data from Internet
 
 The data is from 2003 - 2008, and represent the daily variation in quote prices.
@@ -22,7 +24,3 @@ python stock-plotter.py
 ~~~
 
 Take a look at the expected outcome, which is `stock_market_structure.png`!
-
-## New Branch to experiment with
-
-Now playing with branches! Why not?
