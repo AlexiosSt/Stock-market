@@ -14,6 +14,7 @@ We use `Pandas` to store the data, and `Numpy` to process them. And `Matplotlib`
 
 In module `stock_market_structure.py` we load the data.
 In module `stock-plotter.py` we visualize the quote variation after clustering quotes according to their covariance.
+To find whichh quotess aree!* correlated conditionally on the others, we use sparse inverse covariance estimation.
 
 `Scikit-learn` helps us a lot!
 **Fascinating** example, _don't you think_!
