@@ -22,3 +22,7 @@ python stock-plotter.py
 ~~~
 
 Take a look at the expected outcome, which is `stock_market_structure.png`!
+
+## New Branch to experiment with
+
+Now playing with branches! Why not?
